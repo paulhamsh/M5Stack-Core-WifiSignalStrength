@@ -1,3 +1,8 @@
+// Code copied in most part from the factory test code: https://github.com/m5stack/M5Stack/blob/master/examples/Basics/FactoryTest/FactoryTest.ino
+//
+//
+
+
 #include <M5Stack.h>
 #include "utility/MPU9250.h"
 #include "WiFi.h"
