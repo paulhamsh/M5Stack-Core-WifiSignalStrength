@@ -2,11 +2,6 @@
 #include "utility/MPU9250.h"
 #include "WiFi.h"
 
-#ifndef min
-  #define min(a,b) (((a) < (b)) ? (a) : (b))
-#endif
-
-
 char ssid[30];
 char outstr[30];
 
